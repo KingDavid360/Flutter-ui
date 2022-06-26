@@ -1,16 +1,19 @@
-# bills
+# Bills 
 
-A new Flutter project.
+This is a basic flutter ui that allows you see your home bills and services
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
+- Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+### Home page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home pafe](https://user-images.githubusercontent.com/80047364/175816401-27e6d150-60ae-4e09-9f25-85534d8241cf.png)
+
+### Electrical page
+![electrical ](https://user-images.githubusercontent.com/80047364/175816413-21c9b6c6-9ce6-4d43-bd90-a035fd3f8c19.png)
+
+
+
